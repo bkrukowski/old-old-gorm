@@ -9,7 +9,8 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
+	// Importing mssql driver package only in dialect file, otherwide not needed
+	"github.com/bkrukowski/old-old-gorm"
 	_ "github.com/denisenkom/go-mssqldb"
 )
 
