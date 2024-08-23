@@ -3,8 +3,6 @@ package gorm_test
 import (
 	"errors"
 	"testing"
-
-	"github.com/jinzhu/gorm"
 )
 
 func TestErrorsCanBeUsedOutsideGorm(t *testing.T) {

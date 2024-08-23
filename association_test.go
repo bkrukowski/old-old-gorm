@@ -6,8 +6,6 @@ import (
 	"reflect"
 	"sort"
 	"testing"
-
-	"github.com/jinzhu/gorm"
 )
 
 func TestBelongsTo(t *testing.T) {

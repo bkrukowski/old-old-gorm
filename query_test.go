@@ -3,9 +3,6 @@ package gorm_test
 import (
 	"fmt"
 	"reflect"
-
-	"github.com/jinzhu/gorm"
-
 	"testing"
 	"time"
 )

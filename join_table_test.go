@@ -5,8 +5,6 @@ import (
 	"strconv"
 	"testing"
 	"time"
-
-	"github.com/jinzhu/gorm"
 )
 
 type Person struct {

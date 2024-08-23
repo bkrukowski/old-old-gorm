@@ -5,8 +5,6 @@ import (
 	"encoding/json"
 	"errors"
 	"testing"
-
-	"github.com/jinzhu/gorm"
 )
 
 func TestScannableSlices(t *testing.T) {

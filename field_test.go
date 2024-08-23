@@ -5,8 +5,6 @@ import (
 	"encoding/hex"
 	"fmt"
 	"testing"
-
-	"github.com/jinzhu/gorm"
 )
 
 type CalculateField struct {

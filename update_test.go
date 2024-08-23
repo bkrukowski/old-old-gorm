@@ -3,8 +3,6 @@ package gorm_test
 import (
 	"testing"
 	"time"
-
-	"github.com/jinzhu/gorm"
 )
 
 func TestUpdate(t *testing.T) {

@@ -2,9 +2,6 @@ package gorm_test
 
 import (
 	"errors"
-
-	"github.com/jinzhu/gorm"
-
 	"reflect"
 	"testing"
 )

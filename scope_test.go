@@ -5,8 +5,6 @@ import (
 	"math/rand"
 	"strings"
 	"testing"
-
-	"github.com/jinzhu/gorm"
 )
 
 func NameIn1And2(d *gorm.DB) *gorm.DB {
